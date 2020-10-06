@@ -10,7 +10,8 @@ import { WebComponent } from './web/web.component';
   declarations: [
     AppComponent,
     FormComponent,
-    WebComponent
+    WebComponent,
+   
     
   ],
   imports: [
