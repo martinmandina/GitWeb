@@ -5,11 +5,11 @@
 ## Description:
  An application that consumes the GitHub API and also allows users to submit a GitHub username and see the name of Repositories and Descriptions.
 ## Setup instructions:
- 1.Create new Angular project
- 2.Go to project directory
- 3.Import project repository
- 4.Run `ng serve` for a dev server 
- 5.Navigate to `http://localhost:4200/`. 
+ 1. Create new Angular project
+ 2. Go to project directory
+ 3. Import project repository
+ 4. Run `ng serve` for a dev server 
+ 5. Navigate to `http://localhost:4200/`. 
 ## Link to Live:
 martinmandina.github.io/GitWeb/
 ## Build
