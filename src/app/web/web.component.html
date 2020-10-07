@@ -1,18 +1,25 @@
-<div>
-  <h1>{{user.name}}</h1>
-  <div class="panel panel-default">
-    <div class="panel-heading">Panel heading without title</div>
-    <div class="panel-body">
-      Panel content
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h2 class="panel-title">{{user.name}}</h2>
+  </div><hr>
+  <div class="panel-body">
+    <div class="row">
+       <div class="col-md-4">
+       <img src="./assets/github.png">
+       </div>
+       <div class="col-md-8">
+        <div class="container-fluid"  class="text-primary">
+          <form>
+          <div class="form-group">
+           
+            <label for="name">Github Name:</label>
+            <input type="text" required class="form-control" id="name">
+          </div>
+        </form>
+        </div>
+       </div>
     </div>
   </div>
-  
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">Panel title</h3>
-    </div>
-    <div class="panel-body">
-      Panel content
-    </div>
-  </div>
-</div>
+
+
