@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class WebService {
-  private username="webname";
+  private username="martinmandina";
   
   constructor(private http:HttpClient ) { 
     }

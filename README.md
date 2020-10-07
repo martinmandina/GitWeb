@@ -1,14 +1,21 @@
-# GitWeb
+# Project Name:
+  QuotesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+## Author name:
+  Martin Mandina
 
-## Development server
+## Description:
+ An application that consumes the GitHub API and also allows users to submit a GitHub username and see the name of Repositories and Descriptions.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Setup instructions:
 
-## Code scaffolding
+ ### 1.Create new Angular project
+ ### 2.Go to project directory
+ ### 3.Import project repository
+ ### 4.Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Link to Live:
+martinmandina.github.io/GitWeb/
 
 ## Build
 
