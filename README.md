@@ -1,5 +1,5 @@
 # Project Name:
-  QuotesApp
+  GitWeb
 
 ## Author name:
   Martin Mandina
